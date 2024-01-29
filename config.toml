@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme='m10c'
+
+author="dev18.hut"
+description="Dev18.Hut Site"
+
